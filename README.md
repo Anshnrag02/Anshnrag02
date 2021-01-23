@@ -14,10 +14,11 @@
 
 <h4/>I am a machine learning enthusiast from New Delhi. I am on a first name basis whether you call me by my name or surname.<h4/>
 
-### I'm Currently
+### Currently
 
 
 - <h4>📱I am a Graphic Designer<h4/>
+
 - 🤔 I’m looking to improve on Mathematics behind code and Computation theory.
 - 📚 Beginner at Competitve Programming 
 - 📚 Learning ML
