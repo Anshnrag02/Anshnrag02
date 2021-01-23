@@ -90,6 +90,9 @@
 <hr>
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwvnlrlxhzaq6tjjmdmwgzk4iy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
