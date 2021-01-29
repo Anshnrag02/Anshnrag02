@@ -8,7 +8,7 @@
 <h1>I'm Ansh Anurag <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="left">
 <a href="https://twitter.com/anxhnrag" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ansh-anurag-92678416b//" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ansh-anurag-92678416b/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/an.x.h/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111421.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/playlist/37i9dQZF1ELXRdnmy2QEll?si=i4tuXYEPQ4S1r1qGGOhwjQ" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111627.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/2121ansh/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111342.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
